@@ -28,5 +28,9 @@ hs_err_pid*
 .project
 .settings
 
-# IDEA
+# IDEA #
 .idea
+*.iml
+
+# MAVEN #
+target/
