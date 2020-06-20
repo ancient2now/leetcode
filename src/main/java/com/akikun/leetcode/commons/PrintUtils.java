@@ -1,5 +1,8 @@
 package com.akikun.leetcode.commons;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 public class PrintUtils {
 
     public static void printMatrix(int[][] board) {
@@ -14,5 +17,12 @@ public class PrintUtils {
             sb.append('\n');
         }
         System.out.print(sb.toString());
+    }
+
+    public static void printArray(int[] arr) {
+        String arrStr = Arrays.stream(arr)
+                .mapToObj(String::valueOf)
+                .collect(Collectors.joining(", ", "[", "]"));
+        System.err.println("length:" + arr.length + "; values:" + arrStr);
     }
 }

@@ -34,3 +34,7 @@ hs_err_pid*
 
 # MAVEN #
 target/
+
+# Gradle #
+build/
+.gradle/

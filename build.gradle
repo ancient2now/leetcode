@@ -1,0 +1,19 @@
+plugins {
+	id 'java'
+}
+
+group = 'com.akikun'
+version = '1.0.0-SNAPSHOT'
+sourceCompatibility = '8'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	testImplementation 'junit:junit:4.13'
+}
+
+test {
+	useJUnit()
+}

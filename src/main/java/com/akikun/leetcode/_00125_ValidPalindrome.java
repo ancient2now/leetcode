@@ -1,7 +1,5 @@
 package com.akikun.leetcode;
 
-import com.akikun.leetcode.commons.ListNode;
-
 import java.util.ArrayList;
 import java.util.List;
 
