@@ -12,7 +12,7 @@ public class Sort {
 
     /**
      * Quick sort
-     * 快速排序
+     *
      */
     public void quickSort(int[] arr) {
         qSort(arr, 0, arr.length - 1);
