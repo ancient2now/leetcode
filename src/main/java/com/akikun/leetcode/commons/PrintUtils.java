@@ -1,6 +1,5 @@
 package com.akikun.leetcode.commons;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -20,8 +19,12 @@ public class PrintUtils {
         System.out.print(sb.toString());
     }
 
+    public static <E> void printArray(E[] arr) {
+        Arrays.print(arr);
+    }
+
     public static void printArray(int[] arr) {
-        String arrStr = Arrays.stream(arr)
+        String arrStr = java.util.Arrays.stream(arr)
                 .mapToObj(String::valueOf)
                 .collect(Collectors.joining(", ", "[", "]"));
         System.err.println("length:" + arr.length + "; values:" + arrStr);

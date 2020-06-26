@@ -44,11 +44,11 @@ public class Lists {
 
     public static <E> void print(List<E> list) {
         StringBuilder sb = new StringBuilder();
-        sb.append("size:").append(list.size()).append(" [");
+        sb.append("size:").append(list.size());
         String content = list.stream()
                 .map(Object::toString)
-                .collect(Collectors.joining(", "));
-        sb.append(content).append("]");
+                .collect(Collectors.joining(", ", "[", "]"));
+        sb.append(content);
         System.out.println(sb.toString());
     }
 

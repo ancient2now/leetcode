@@ -2,7 +2,7 @@ package com.akikun.leetcode;
 
 import java.util.Arrays;
 
-import com.akikun.leetcode.commons.TreeNode;
+import com.akikun.leetcode.struct.TreeNode;
 
 public class _00889_ConstructBinaryTreeFromPrePost {
 

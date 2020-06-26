@@ -1,4 +1,4 @@
-package com.akikun.leetcode.commons;
+package com.akikun.leetcode.struct;
 
 public class TreeNode {
     public int val;

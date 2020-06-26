@@ -2,18 +2,17 @@ package com.akikun.leetcode.algorithm;
 
 import com.akikun.leetcode.commons.PrintUtils;
 
-public class Sort {
+/**
+ * Quick Sort
+ */
+public class QuickSort {
 
     public static void main(String[] args) {
         int[] arr = {3,3,3,7,9,122344,4656,34,34,4656,5,6,7,8,9,343,57765,23,12321,10};
-        new Sort().quickSort(arr);
+        new QuickSort().quickSort(arr);
         PrintUtils.printArray(arr);
     }
 
-    /**
-     * Quick sort
-     *
-     */
     public void quickSort(int[] arr) {
         qSort(arr, 0, arr.length - 1);
     }
