@@ -4,6 +4,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 209 | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Java](./src/main/java/com/akikun/leetcode/_00209_MinimumSizeSubarraySum.java) | 2020.06.28 |
 |  41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Java](./src/main/java/com/akikun/leetcode/_00041_FirstMissingPositive.java) | 2020.06.27 |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [Java](./src/main/java/com/akikun/leetcode/_00139_WordBreak.java) | 2020.06.25 |
 | 67  | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Java](./src/main/java/com/akikun/leetcode/_00067_AddBinary.java) | 2020.06.23 |
