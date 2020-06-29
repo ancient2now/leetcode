@@ -4,6 +4,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 1139 | [Largest 1-Bordered Square](https://leetcode-cn.com/problems/largest-1-bordered-square/) | [Java](./src/main/java/com/akikun/leetcode/_01139_Largest1_BorderedSquare.java) | 2020.06.29 |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Java](./src/main/java/com/akikun/leetcode/_00215_KthLargestElementInAnArray.java) | 2020.06.29 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Java](./src/main/java/com/akikun/leetcode/_00209_MinimumSizeSubarraySum.java) | 2020.06.28 |
 |  41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Java](./src/main/java/com/akikun/leetcode/_00041_FirstMissingPositive.java) | 2020.06.27 |
