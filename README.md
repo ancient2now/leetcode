@@ -20,6 +20,11 @@
 | ------ | ------ | ------ | ------ |
 | 02.01 | [Remove Duplicate Node](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Java](./src/main/java/com/akikun/leetcode/interview/_02_01_RemoveDuplicateNode.java) | 2020.06.26 |
 
+#### 剑指Offer
+| No. | Problems | Solutions | Completion Date |
+| ------ | ------ | ------ | ------ |
+| 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Java](./src/main/java/com/akikun/leetcode/offer/CQueue.java) | 2020.06.30 |
+
 #### 常用算法练习
 
 [quick sort](./src/main/java/com/akikun/leetcode/algorithm/QuickSort.java)
