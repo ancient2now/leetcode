@@ -20,10 +20,19 @@
 | 02.01 | [Remove Duplicate Node](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Java](./src/main/java/com/akikun/leetcode/interview/_02_01_RemoveDuplicateNode.java) | 2020.06.26 |
 
 #### 剑指Offer
+
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
-| 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Java](./src/main/java/com/akikun/leetcode/offer/CQueue.java) | 2020.06.30 |
+| 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Java](./src/main/java/com/akikun/leetcode/offer/CQueue.java) | 2020.06.30 | 
 
 #### 常用算法练习
 
 [quick sort](./src/main/java/com/akikun/leetcode/algorithm/QuickSort.java)
+
+## 字节跳动
+
+###### 数组与排序
+
+| Problems | Solutions | Completion Date |
+| ------ | ------ | ------ |
+| [岛屿的最大面积](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1034/) | [Java](./src/main/java/com/akikun/leetcode/bytedance/MaxAreaOfIsland.java) | 2020.06.30 |
