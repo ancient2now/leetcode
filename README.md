@@ -1,9 +1,8 @@
 # leetcode
 
-#### Java version
-
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 168 | [Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/submissions/) | [Java](./src/main/java/com/akikun/leetcode/_00168_ExcelSheetColumnTitle.java) | 2020.06.30 |
 | 1139 | [Largest 1-Bordered Square](https://leetcode-cn.com/problems/largest-1-bordered-square/) | [Java](./src/main/java/com/akikun/leetcode/_01139_Largest1_BorderedSquare.java) | 2020.06.29 |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Java](./src/main/java/com/akikun/leetcode/_00215_KthLargestElementInAnArray.java) | 2020.06.29 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Java](./src/main/java/com/akikun/leetcode/_00209_MinimumSizeSubarraySum.java) | 2020.06.28 |
