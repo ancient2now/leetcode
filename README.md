@@ -2,12 +2,13 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./src/main/java/com/akikun/leetcode/_00378_KthSmallestElementInASortedMatrix.java) | 2020.07.02 |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [Java](./src/main/java/com/akikun/leetcode/_00718_MaximumLengthOfRepeatedSubarray.java) | 2020.07.01 |
 | 168 | [Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/submissions/) | [Java](./src/main/java/com/akikun/leetcode/_00168_ExcelSheetColumnTitle.java) | 2020.06.30 |
 | 1139 | [Largest 1-Bordered Square](https://leetcode-cn.com/problems/largest-1-bordered-square/) | [Java](./src/main/java/com/akikun/leetcode/_01139_Largest1_BorderedSquare.java) | 2020.06.29 |
 | 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Java](./src/main/java/com/akikun/leetcode/_00215_KthLargestElementInAnArray.java) | 2020.06.29 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Java](./src/main/java/com/akikun/leetcode/_00209_MinimumSizeSubarraySum.java) | 2020.06.28 |
-|  41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Java](./src/main/java/com/akikun/leetcode/_00041_FirstMissingPositive.java) | 2020.06.27 |
+| 41  | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Java](./src/main/java/com/akikun/leetcode/_00041_FirstMissingPositive.java) | 2020.06.27 |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [Java](./src/main/java/com/akikun/leetcode/_00139_WordBreak.java) | 2020.06.25 |
 | 67  | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [Java](./src/main/java/com/akikun/leetcode/_00067_AddBinary.java) | 2020.06.23 |
 | 889 | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Java](./src/main/java/com/akikun/leetcode/_00889_ConstructBinaryTreeFromPrePost.java) | 2020.06.22 |
