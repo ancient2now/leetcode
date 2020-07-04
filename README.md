@@ -2,6 +2,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 32  | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_00032_LongestValidParentheses.java) | 2020.07.04 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./src/main/java/com/akikun/leetcode/_00108_ConvertSortedArrayToBinarySearchTree.java) | 2020.07.03 |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./src/main/java/com/akikun/leetcode/_00378_KthSmallestElementInASortedMatrix.java) | 2020.07.02 |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [Java](./src/main/java/com/akikun/leetcode/_00718_MaximumLengthOfRepeatedSubarray.java) | 2020.07.01 |
