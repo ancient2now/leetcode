@@ -1,5 +1,18 @@
 # leetcode
 
+#### 推荐
+
+| No. | Problems | Solutions | Tag |
+| ------ | ------ | ------ | ------ |
+| 32  | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_00032_LongestValidParentheses.java) | DP, Stack |
+
+#### 周赛 (weekly-content)
+| No. |  Solutions | Completion Date |
+| ------ | ------ | ------ |
+| [196](https://leetcode-cn.com/contest/weekly-contest-196) | [Java](./src/main/java/com/akikun/leetcode/_00108_ConvertSortedArrayToBinarySearchTree.java) | 2020.07.05 |  
+ 
+#### 刷题记录
+
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
 | 32  | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_00032_LongestValidParentheses.java) | 2020.07.04 |
