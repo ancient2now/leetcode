@@ -15,6 +15,8 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Java](./src/main/java/com/akikun/leetcode/_00120_Triangle.java) | 2020.07.06 |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./src/main/java/com/akikun/leetcode/_00142_LinkedListCycleII.java) | 2020.07.06 |
 | 63 | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [Java](./src/main/java/com/akikun/leetcode/_00063_UniquePathsII.java) | 2020.07.06 |
 | 32  | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_00032_LongestValidParentheses.java) | 2020.07.04 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./src/main/java/com/akikun/leetcode/_00108_ConvertSortedArrayToBinarySearchTree.java) | 2020.07.03 |
