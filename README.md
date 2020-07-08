@@ -37,6 +37,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 16.11 | [Diving Board LCCI](https://leetcode-cn.com/problems/diving-board-lcci/) | [Java](./src/main/java/com/akikun/leetcode/interview/_16_11_DivingBoardLCCI.java) | 2020.07.08 |
 | 02.01 | [Remove Duplicate Node](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Java](./src/main/java/com/akikun/leetcode/interview/_02_01_RemoveDuplicateNode.java) | 2020.06.26 |
 
 #### 剑指Offer
