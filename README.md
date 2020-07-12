@@ -15,6 +15,8 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 174 | [Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/) | [Java](./src/main/java/com/akikun/leetcode/_00174_DungeonGame.java) | 2020.07.12 |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](./src/main/java/com/akikun/leetcode/_00309_BestTimetoBuyandSellStockwithCooldown.java) | 2020.07.10 |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Java](./src/main/java/com/akikun/leetcode/_00120_Triangle.java) | 2020.07.06 |
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./src/main/java/com/akikun/leetcode/_00142_LinkedListCycleII.java) | 2020.07.06 |
 | 63 | [Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/) | [Java](./src/main/java/com/akikun/leetcode/_00063_UniquePathsII.java) | 2020.07.06 |

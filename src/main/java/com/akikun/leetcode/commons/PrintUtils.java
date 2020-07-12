@@ -5,6 +5,10 @@ import java.util.stream.Collectors;
 
 public class PrintUtils {
 
+    public static void printAnswer(Object o) {
+        System.out.println("Answer: " + o.toString());
+    }
+
     public static void printMatrix(int[][] board) {
         int m = board.length;
         int n = board[0].length;
@@ -20,7 +24,7 @@ public class PrintUtils {
     }
 
     public static <E> void printArray(E[] arr) {
-        Arrays.print(arr);
+        MyArrays.print(arr);
     }
 
     public static void printArray(int[] arr) {
@@ -31,6 +35,6 @@ public class PrintUtils {
     }
 
     public static <E> void printList(List<E> list) {
-        Lists.print(list);
+        MyLists.print(list);
     }
 }

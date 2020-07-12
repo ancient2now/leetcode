@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Lists {
+public class MyLists {
 
     /**
      * transfer string to list
@@ -44,7 +44,7 @@ public class Lists {
 
     public static <E> void print(List<E> list) {
         StringBuilder sb = new StringBuilder();
-        sb.append("size:").append(list.size());
+        sb.append("size:").append(list.size()).append(" ");
         String content = list.stream()
                 .map(Object::toString)
                 .collect(Collectors.joining(", ", "[", "]"));
