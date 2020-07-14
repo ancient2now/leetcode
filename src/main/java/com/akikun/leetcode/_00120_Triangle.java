@@ -4,13 +4,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.akikun.leetcode.commons.PrintUtils;
+
 public class _00120_Triangle {
 
     public static void main(String[] args) {
         List<Integer> line0 = Arrays.asList(2);
-        List<Integer> line1 = Arrays.asList(3, 4);
+        List<Integer> line1 = Arrays.asList(3,4);
         List<Integer> line2 = Arrays.asList(6,5,7);
-        List<Integer> line3 = Arrays.asList(4,1,8,3);
+        List<Integer> line3 = Arrays.asList(4,1,8,3); // Excepted: 11
 
         List<List<Integer>> triangle = new ArrayList<>();
         triangle.add(line0);
@@ -20,7 +22,9 @@ public class _00120_Triangle {
 
         _00120_Triangle test = new _00120_Triangle();
         int ans = test.minimumTotal(triangle);
-        System.out.println("answer: " + ans);
+        int ans2 = test.minimumTotal_2(triangle);
+        PrintUtils.printAnswer(ans);
+        PrintUtils.printAnswer(ans2);
     }
 
     public int minimumTotal(List<List<Integer>> triangle) {
@@ -40,7 +44,6 @@ public class _00120_Triangle {
                 } else {
                     dp[i][j] = triangle.get(i).get(j) + Math.min(dp[i - 1][j], dp[i - 1][j - 1]);
                 }
-
             }
         }
 
@@ -52,6 +55,22 @@ public class _00120_Triangle {
         }
 
         return ans;
+    }
+
+    public int minimumTotal_2(List<List<Integer>> triangle) {
+        int h = triangle.size();
+        int longest = triangle.get(h - 1).size();
+        int[][] map = new int[h][longest];
+        for (int i = 0; i < longest; ++i) {
+            map[h - 1][i] = triangle.get(h - 1).get(i);
+        }
+        for (int i = h - 2; i >= 0; --i) {
+            for (int j = 0; j <= i; ++j) {
+                map[i][j] = triangle.get(i).get(j)
+                        + Math.min(map[i + 1][j], map[i + 1][j + 1]);
+            }
+        }
+        return map[0][0];
     }
 
 }
