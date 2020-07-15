@@ -15,6 +15,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Java](./src/main/java/com/akikun/leetcode/_00096_UniqueBinarySearchTrees.java) | 2020.07.15 |
 | 174 | [Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/) | [Java](./src/main/java/com/akikun/leetcode/_00174_DungeonGame.java) | 2020.07.12 |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](./src/main/java/com/akikun/leetcode/_00309_BestTimetoBuyandSellStockwithCooldown.java) | 2020.07.10 |
 | 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Java](./src/main/java/com/akikun/leetcode/_00120_Triangle.java) | 2020.07.06 |
