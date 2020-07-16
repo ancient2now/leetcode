@@ -1,7 +1,6 @@
 package com.akikun.leetcode;
 
 import com.akikun.leetcode.commons.PrintUtils;
-import com.akikun.leetcode.struct.TreeNode;
 
 public class _00096_UniqueBinarySearchTrees {
 
