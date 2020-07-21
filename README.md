@@ -15,6 +15,7 @@
 
 | No. | Problems | Solutions | Completion Date |
 | ------ | ------ | ------ | ------ |
+| 856 | [Score of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_00865_ScoreOfParentheses.java) | 2020.07.21 |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [Java](./src/main/java/com/akikun/leetcode/_00095_UniqueBinarySearchTreesII.java) | 2020.07.21 |
 | 785 | [Is Graph Bipartite?](https://leetcode-cn.com/problems/is-graph-bipartite/) | [Java](./src/main/java/com/akikun/leetcode/_00785_IsGraphBipartite.java) | 2020.07.16 |
 | 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Java](./src/main/java/com/akikun/leetcode/_00096_UniqueBinarySearchTrees.java) | 2020.07.15 |
