@@ -40,6 +40,7 @@
 | 889 | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Java](./src/main/java/com/akikun/leetcode/_00889_ConstructBinaryTreeFromPrePost.java) | 2020.06.22 |
 | 289 | [Game of Life](https://leetcode-cn.com/problems/game-of-life/) | [Java](./src/main/java/com/akikun/leetcode/_00289_GameOfLife.java) | 2020.05.20 |
 | 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [Java](./src/main/java/com/akikun/leetcode/_00125_ValidPalindrome.java) | 2020.06.19 |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Java](./src/main/java/com/akikun/leetcode/_01190_ReverseSubstrings.java) | 2021.05.27 |
 
 #### 面试题部分
 
